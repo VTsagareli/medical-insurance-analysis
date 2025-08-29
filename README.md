@@ -28,23 +28,23 @@ The dataset `insurance.csv` contains information about patients, including:
 2. **Explored patient age distribution**  
    - Counted the number of patients in each age group.  
    - Plotted histogram to visualize the distribution.  
-   - ![Age Distribution](age_distribution.png)  
+   - ![Age Distribution](plots/age_distribution.png)  
 
 3. **Analyzed average age by number of children**  
    - Grouped patients by the number of children and calculated average age.  
    - Plotted bar chart to see differences in age based on family size.  
-   - ![Average Age Distribution](average_age_distribution.png)  
+   - ![Average Age Distribution](plots/average_age_distribution.png)  
 
 4. **Compared insurance charges for smokers vs. non-smokers**  
    - Grouped data by `smoker` status and calculated average charges.  
    - Computed how many times non-smokers pay less than smokers.  
    - Plotted a bar chart to highlight the cost difference.  
-   - ![Average Charges](average_charges.png)  
+   - ![Average Charges](plots/average_charges.png)  
 
 5. **Explored regional distribution of patients**  
    - Counted patients per region.  
    - Plotted a pie chart or bar chart to visualize where most patients are from.  
-   - ![Region Distribution](region_distribution.png)  
+   - ![Region Distribution](plots/region_distribution.png)  
 
 ## Libraries Used
 
